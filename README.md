@@ -1,6 +1,4 @@
 # Moblie-Flight-App
-Link to github-https://github.com/yosi058/Moblie-Flight-App.git
-
 Link for the presentation of Mobile App-https://www.youtube.com/watch?v=tJavODlgAmw.  
 
 
@@ -43,7 +41,7 @@ c.Model - also like ViewModel has only the model file.
 
 --telnet=socket,in,10,192.168.56.1,6400,tcp - when the ip is your intern ip computer.  
 
-3.Downloads the project by git clone form https://github.com/yosi058/Moblie-Flight-App.git
+3.Downloads the project by git clone form https://github.com/ori032/Mobile-app.git
 
 4. Start the enigne of the plane - and start flay away!
 ## Documentation
